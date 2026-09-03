@@ -22,3 +22,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# ingresar github publico: https://github.com/elPinguinito/App-Cine-113-4A.git

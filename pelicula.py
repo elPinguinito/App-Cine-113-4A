@@ -6,4 +6,6 @@ class Pelicula:
         self.__duracion = duracion
 
     def mostrar_datos(self):
-        pass
+        return f"Titulo pelicula: {self.__titulo}, Genero: {self.__genero}, Duracion: {self.__duracion}"
+    #se usa print cuando retorna un void, es decir que no retorna nada.
+    
